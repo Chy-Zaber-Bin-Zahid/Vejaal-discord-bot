@@ -1,0 +1,5 @@
+**Commands:**
+$cse101 (To join cse101 course channel)
+$cse110 (To join cse110 course channel)
+$cse111 (To join cse111 course channel)
+Note: You can join only a one-course channel. To join another course channel contract admin!
